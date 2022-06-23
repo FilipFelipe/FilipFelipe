@@ -20,7 +20,7 @@
 <p align="center" ><a href="https://anuraghazra.github.io"><img width="30%" src="./assets/hi.svg" /></a></p>
 
 ### Hi 👋
-I’m a recent computer engineer looking for opportunities and collaboration in projects related to Back-end, DevOps, and Hardware.
+I’m a recent computer engineer looking for collaboration in projects related to Back-end, DevOps, and Hardware.
 
 
 
