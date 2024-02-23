@@ -17,7 +17,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=filipfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="filipfelipe" /> </p>
 </div>
 
-<p align="center" ><a href="https://anuraghazra.github.io"><img width="30%" src="./assets/hi.svg" /></a></p>
+<p align="center" ><a href="https://github.com/FilipFelipe"><img width="30%" src="./assets/hi.svg" /></a></p>
 
 ### Hi 👋
 I’m a recent computer engineer looking for collaboration in projects related to Back-end, DevOps, and Hardware.
